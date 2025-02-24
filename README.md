@@ -29,7 +29,7 @@
 		</p>
 		<p>
 			<b>
-				pls don't skid my code, dm me and i will explain a function to you. :)
+				pls don't skid my code dm me ,@sulfu3r on discord, and i will explain a function to you. :)
 			</b>
 		</p>
 	</center>
