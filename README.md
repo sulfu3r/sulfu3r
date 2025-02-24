@@ -15,7 +15,6 @@
 			<br>
 				I'm an intermediate - advanced Luau scripter and pentester.
 			<br>
-			<br>
 		</h1>
 		<p>
 			<h1> Info on me: </h1>
