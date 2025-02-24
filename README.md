@@ -9,7 +9,7 @@
 			alt=""
 		>
 		<h1>
-			Hello, i'm sulfur!
+			Hello, i'm sulfur.
 			<br>
 				Currently 17 years old!
 			<br>
