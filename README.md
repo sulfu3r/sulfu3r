@@ -13,42 +13,9 @@
 			<br>
 				Currently 17 years old!
 			<br>
+				I'm an intermediate - advanced Luau scripter and pentester.
 			<br>
-				I began scripting on Febuary 1st 2023!
 			<br>
-			<br>
-				Here's a list of languages i either know, learning or am going to learn:
-		</h1>
-			<h1> Know well: 
-			<img 
-				 src="https://imgs.search.brave.com/uPZX-d-N9MXR5febezsRrXyIEzWLXlLHuSQv_VXHCy4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kZXZm/b3J1bS11cGxvYWRz/LnMzLmR1YWxzdGFj/ay51cy1lYXN0LTIu/YW1hem9uYXdzLmNv/bS91cGxvYWRzL29y/aWdpbmFsLzRYL2Mv/NS9hL2M1YWNmMTY4/NWJkZjM0ZDFkNzIx/YzBjNWVjOGZjM2M0/ZThjODBiMDMucG5n"
-				 width="75"
-				 height="75"
-				 onClick="https://www.lua.org/manual/5.4/"
-				 alt=""
-			>
-			<br>
-			Learning: 
-			<img 
-				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png"
-				 width="50"
-				 height="50"
-				 alt=""
-			>
-			<img 
-				 src="https://imgs.search.brave.com/hlJLlUrLwzhpgfcIGN6vE9eNlJsA4TAPtoEGQNUY0e4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8x/LzE4L0NfUHJvZ3Jh/bW1pbmdfTGFuZ3Vh/Z2Uuc3Zn"
-				 width="50"
-				 height="50"
-				 alt=""
-				 >
-			<br>
-			Want to learn: 
-			<img 
-				 src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png"
-				 width="50"
-				 height="50"
-				 alt=""
-				 >
 		</h1>
 		<p>
 			<h1> Info on me: </h1>
