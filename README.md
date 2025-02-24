@@ -2,12 +2,12 @@
 <html>
 	<body>
 	<center>
-		<img 
-			src="https://i.pinimg.com/originals/7e/fe/a2/7efea2182ec911227b9e7df63c103cbd.gif"
-			height="400"
-			width="400"
-			alt=""
-		>
+			<img 
+				 src="man.jpg"
+				 height="450"
+				 width="450"
+				 alt=""
+			>
 		<h1>
 			Hello, i'm sulfur.
 			<br>
@@ -33,12 +33,6 @@
 				pls don't skid my code, dm me and i will explain a function to you. :)
 			</b>
 		</p>
-			<img 
-				 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDNmdjIwaGU0Mmcwa2k0MGQzaWU4MXppaGJ5bDY0MzR0M245OTltZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/de2Bd0zXO07EIxwLj8/giphy.webp"
-				 height="450"
-				 width="450"
-				 alt=""
-			>
 	</center>
 	</body>
 </html>
