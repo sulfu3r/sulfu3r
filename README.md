@@ -11,8 +11,6 @@
 		<h1>
 			Hello, i'm sulfur.
 			<br>
-				Currently 17 years old!
-			<br>
 				I'm an intermediate - advanced Luau scripter and pentester.
 			<br>
 		</h1>
