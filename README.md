@@ -3,7 +3,7 @@
 	<body>
 	<center>
 			<img 
-				 src="man.jpg"
+				 src="BETTER QUAL CYN.gif"
 				 height="450"
 				 width="450"
 				 alt=""
